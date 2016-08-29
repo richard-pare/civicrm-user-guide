@@ -1,11 +1,17 @@
 Everyday Tasks
-==============
+
+Tâches quotidiennes
+===================
 
 This chapter describes the everyday tasks to conduct and manage
 petitions.
 
+Ce chapitre décrit les tâches quotidiennes pour lancer et gérer les pétitions.
+
 Manage Your Petitions
----------------------
+
+Gérer vos Pétitions
+-------------------
 
 To view, manage and edit your petitions, click **Campaigns > Dashboard > Petitions**.
 
