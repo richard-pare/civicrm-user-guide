@@ -1,23 +1,23 @@
-Reports and analysis
-====================
+Les rapports et analayses
+=========================
 
-There are a couple of simple tools to report and analyse petitions.
+Quelques outils simple de rapport et d'analyse des pétitions.
 
-View signatories
-----------------
+Voir les signataires
+--------------------
 
-To view who has signed the petition:
+Pour voir qui a signé la pétition:
 
-1.  Click **Campaign > Dashboard > Petitions**.
-2.  Click **More > Signatures** next to the name of your petition.
+1.  Cliquer sur **Campagnes > Tableau de bord > Pétitions**.
+2.  Cliquer sur **Plus > Signatures** localisé à la droite du nom de la pétition.
 
-Review results with activity report
------------------------------------
+Analyser les résultat avec activity report
+------------------------------------------
 
-To review all or some of the results from a petition, use the Activity
+Pour analyser les résultats d'un pétition, utilisez Activity
 Report.
 
-1.  Go to **Reports > Create Reports from Templates > Activity
+1.  Aller à **Reports > Create Reports from Templates > Activity
     Report**.
 2.  In **Display Column** area, select any fields you would like to view
     on the report, such as Target Contact Email.
@@ -26,3 +26,4 @@ Report.
 4.  Click **Preview Report** to view the results. You can also export
     the survey report information to a CSV file to do more detailed
     reporting of the results
+
