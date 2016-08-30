@@ -1,10 +1,15 @@
-Set-up
-======
+Mise en place
+=============
 
 This chapter describes the steps needed to set up a petition.
 
+Ce chapitre décrit les étapes nécéessaires à la mise en place de pétition.
+
 The CiviCampaign component must be enabled before you can use Petition.
 See the section *Campaign* for information about this.
+
+Le composant CiviCampaign doit être activité avant d'utiliser la pétition.
+Pour information voir la section *Campagne*. 
 
 Set CMS permissions
 ----------------------
@@ -21,16 +26,21 @@ if you're planning to make the petition public.
     permissions for anonymous users and authenticated users ("Guest" in Joomla!
     or "Subscriber" in WordPress).
 
-Create two Custom Profiles
---------------------------
+Créer deux profiles personnalisés
+---------------------------------
 
-In order to create a new petition, you must create two custom profiles:
-one to capture the contact information of the signer, and the other to
-capture the responses to the petition questions. The responses to the
-petition questions are recorded in the activity record of type Petition
-for each individual who signs the petition.
+---In order to create a new petition, you must create two custom profiles:
+---one to capture the contact information of the signer, and the other to
+---capture the responses to the petition questions. The responses to the
+--petition questions are recorded in the activity record of type Petition
+---for each individual who signs the petition.
 
-1.  Go to **Administer > Customize Data and Screens > Profiles** and add
+Afin de créé une nouvelle pétition, vous devez créé deux profils personnalisés:
+
+Un pour collecter les informations du signataire (Contact), et l'autre pour receuillir les réponses des questions de la pétition. 
+Pour chaque personne qui a signé la pétition, les réponses aux questions sont enregistrées dans le dépot activité pour le type "Pétition".
+
+---1.  Go to **Administer > Customize Data and Screens > Profiles** and add
     a profile with fields for the contact information you want to
     collect, such as First Name, Last Name, and Email. You may want to
     make some of these fields required so you capture enough information
@@ -39,14 +49,16 @@ for each individual who signs the petition.
     Petition feature will send an email to the signer of the petition to
     prompt them to verify their email address. Only those verified email
     addresses can be counted.
-2.  Go to **Administer > Customize Data and Screens > Custom Fields** and
+---2.  Go to **Administer > Customize Data and Screens > Custom Fields** and
     add a set of custom fields to capture responses to the petition
     questions. From the **Used For** drop down menu select **Activities**. For
     the **Activity Type** select **Petition Signature**.
-3.  Under **Administer > Customize Data and Screens > Profiles** add a
+---3.  Under **Administer > Customize Data and Screens > Profiles** add a
     profile for the petition responses. Select **Activity** from the Field
     Name drop down menu, then select from the custom fields you created.
 
+1. Aller à **Administrer > Personnaliser les données et écrans > Profils** et ajouter un profil. Pour ce profil ajouter les champs qui définieront les informations du contact à collecter, tel que Prénom, Nom, et Courriel.  Vous pouvez spécifier les champs requis qui permettront de communiquer avec les signataires plus tard. Note: Vous devez collecter au moins l'adresse de courriel du contact, car la fonctionnalité "Pétition" envoyera un courriel au signataire de la pétition pour les incités à vérifier leur adresse de courriel. Seul les adresses de courriel vérifié peuvent être comptabilisé.
+2. Aller à **Administrer > Personnaliser les données et écrans > Profils** et ajouter
 
 For both profiles, you may want to select the following settings in the
 **Advanced Setting** area:
@@ -63,8 +75,8 @@ To learn more about how to create custom field sets, see the chapter
 *Creating Custom Fields* in the *Organising Your Data* section. To learn about how to
 create a custom profile, see the *Profiles* chapter.
 
-Create a New Petition
----------------------
+Créer une nouvelle pétition
+---------------------------
 
 Once you have created the two profiles, you are ready to create a
 petition.
