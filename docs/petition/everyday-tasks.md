@@ -19,14 +19,14 @@ Quand votre pétition est prête, vous pouvez rendre publique l'URL.
 2.  Cliquer sur **Plus > Signer** localisé à la droite du nom de votre pétition.
 3.  Vous verrez le formulaire de votre pétition; copiez l'URL et envoyez-le par courriel à vos contacts, ou ajoutez-le à votre site Web.
 
-Recueillir les réponses en ligne
---------------------------------
+  Recueillir les réponses en ligne
+  --------------------------------
 
-Une fois que l'URL de votre pétition est rendue publique, les gens peuvent remplir le formulaire, répondre aux questions et les envoyer.
+  Une fois que l'URL de votre pétition est rendue publique, les gens peuvent remplir le formulaire, répondre aux questions et les envoyer.
 
-![image](../img/petition_signing.png)
+  ![image](../img/petition_signing.png)
 
-Après que le formulaire soit complété et signé **Signer la pétition**, ils verront apparaître le message suivant.
+  Après avoir complété et signé **Signer la pétition** le formulaire, ils verront apparaître le message suivant les incitant à vérifier et confirmer leurs adresses de courrier électronique.
 
 ![image](../img/petition_thankyou.png) 
 
@@ -36,7 +36,7 @@ Recueillir les signatures
 Pour voir qui a signé la pétition:
 
 1. Cliquer sur **Campagnes > Tableau de bord > Pétitions**.
-2. Cliquer sur **Plus > Signatures** localisé à la droite du nom de votre pétition.
+2. Cliquer sur **Plus > Signatures**, localisé à la droite du nom de votre pétition.
 3. Vous pouvez choisir de voir l'activité de la pétition pour une personne, ou sélectionnez des contacts et réaliser des activités. 
 
 ![image](../img/petition_signatures_email.png)
@@ -44,7 +44,7 @@ Pour voir qui a signé la pétition:
 Analyser les résultats avec Activity Report
 -------------------------------------------
 
-Pour analyser les résultats d'une pétition, utilisez le Activity Report.
+Pour analyser les résultats d'une pétition, utilisez Activity Report.
 
 1. Aller à **Administrer > Rapports > Créer un rapport à partir d'un modèle > Activity Report**.
 2. Dans la zone **Colonnes**, sélectionnez les champs que vous voulez voir dans le rapport.
