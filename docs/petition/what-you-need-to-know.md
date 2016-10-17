@@ -36,7 +36,7 @@ Pour découvrir comment créer un profil personnalisé, voir *Profiles* dans la 
 ### CMS Autorisations
 
 Vous devez accorder des autorisations pour permettre aux rôles spécifiques de signer la pétition.
-Référez-vous au chapitre nommé "Configuration initiale" dans cette section, vous trouverez quelles sont les autorisations à accorder.
+Référez-vous au chapitre nommé "Configuration" dans cette section, vous trouverez quelles sont les autorisations à accorder.
 
 Questions essentielles
 ----------------------
